@@ -21,4 +21,4 @@ licenses:
 
 script:
     - chmod +x gradlew
-    - ./gradlew testDebug --debug
+    - ./gradlew testDebug 
