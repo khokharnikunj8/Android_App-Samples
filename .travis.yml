@@ -2,10 +2,7 @@ language: android
 android:
 before_install:
     - cd  ScreenRotation
-    - cd
-    - cd $ANDROID_HOME/tools/bin/
-    - ./sdkmanager --licenses
-    - cd
+    - yes | sdkmanager --licenses
 
 jdk: oraclejdk8
 licenses:
