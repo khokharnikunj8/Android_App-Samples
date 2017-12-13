@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ScrollPosition</string>
+    <string-array name="all_items">
+        <item>Google</item>
+        <item>Facebook</item>
+        <item>Youtube</item>
+        <item>Bing</item>
+        <item>Gmail</item>
+        <item>Yahoo</item>
+        <item>Bing</item>
+        <item>Google</item>
+        <item>Facebook</item>
+        <item>Youtube</item>
+        <item>Bing</item>
+        <item>Gmail</item>
+        <item>Yahoo</item>
+        <item>Bing</item>
+        <item>Google</item>
+        <item>Facebook</item>
+        <item>Youtube</item>
+        <item>Bing</item>
+        <item>Gmail</item>
+        <item>Yahoo</item>
+        <item>Bing</item>
+        <item>Google</item>
+        <item>Facebook</item>
+        <item>Youtube</item>
+        <item>Bing</item>
+        <item>Gmail</item>
+        <item>Yahoo</item>
+        <item>Bing</item>
+    </string-array>
+</resources>

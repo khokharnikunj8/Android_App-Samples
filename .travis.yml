@@ -11,7 +11,7 @@ android:
     - extra-google-google_play_services
 
 before_install:
-    - cd  ScreenRotation
+    - cd  ScrollPosition
 
 jdk: oraclejdk8
 licenses:
