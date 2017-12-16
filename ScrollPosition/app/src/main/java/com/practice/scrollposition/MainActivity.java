@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.i("main","YES");
         listView=(ListView)findViewById(R.id.listView);
         arrayAdapter=ArrayAdapter.createFromResource(   this,R.array.all_items,android.R.layout.simple_list_item_1);
         listView.setAdapter(arrayAdapter);
